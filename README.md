@@ -14,6 +14,6 @@ Este proyecto es una copia de la interfaz de inio de Pinterest, creado puramente
 ### Vista previa del Proyecto: **_Pendiente_**
 
 ### Contacto
-+ **WhatsApp:** +522211840552
++ **WhatsApp:** +522211840252
 + **Correo personal:** mtnezhdez.cintia@gmail.com
 + **LinkedIn:** www.linkedin.com/in/cintia-mtnez-hdez
